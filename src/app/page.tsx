@@ -26,28 +26,19 @@ export default function Home() {
           </div>
           <div className="my-3 font-bold">
             <div className="flex text-justify">
-              <p>Acara : </p>
-              <p>Bakar Bakar</p>
+              <p>Acara : Bakar Bakar</p>
             </div>
             <div className="flex">
-              <p>Lokasi : </p>
-              <p>Rumah Jea</p>
+              <p>Lokasi : Rumah Jea</p>
             </div>
             <div className="flex">
-              <p>Dana : </p>
-              <p>Patungan</p>
+              <p>Dana : Patungan</p>
             </div>
             <div className="flex">
-              <p>Acara : </p>
-              <p>Bakar Bakar</p>
+              <p>Sie Acara : Enjelani</p>
             </div>
             <div className="flex">
-              <p>Sie Acara : </p>
-              <p>Enejelani</p>
-            </div>
-            <div className="flex">
-              <p>Tanggal : </p>
-              <p>Minggu ini</p>
+              <p>Tanggal : Minggu Ini</p>
             </div>
           </div>
 
